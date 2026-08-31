@@ -1,0 +1,6 @@
+{
+  "name": "All Alive Foundation",
+  "description": "An Indian charitable foundation working across animal welfare, food and education, environment conservation, and women's empowerment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
